@@ -1,3 +1,4 @@
+//3. WAP in C to find the median of an array.
 #include<stdio.h>
 int main()
 {
